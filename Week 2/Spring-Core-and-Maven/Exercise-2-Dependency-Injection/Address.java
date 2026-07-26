@@ -1,0 +1,14 @@
+package com.cognizant.di;
+
+public class Address {
+
+    private String city;
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getCity() {
+        return city;
+    }
+}
